@@ -1,0 +1,6 @@
+C:\Users\Victor Delgado\source\repos\WpfApp2\WPF.Entities\bin\Debug\WPF.Entities.dll
+C:\Users\Victor Delgado\source\repos\WpfApp2\WPF.Entities\bin\Debug\WPF.Entities.pdb
+C:\Users\Victor Delgado\source\repos\WpfApp2\WPF.Entities\obj\Debug\WPF.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Victor Delgado\source\repos\WpfApp2\WPF.Entities\obj\Debug\WPF.Entities.dll
+C:\Users\Victor Delgado\source\repos\WpfApp2\WPF.Entities\obj\Debug\WPF.Entities.pdb
+C:\Users\Victor Delgado\source\repos\WpfApp2\WPF.Entities\obj\Debug\WPF.Entities.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\Victor Delgado\source\repos\WpfApp2\WPF.DataAccess\bin\Debug\WPF.DataAccess.dll.config
+C:\Users\Victor Delgado\source\repos\WpfApp2\WPF.DataAccess\bin\Debug\WPF.DataAccess.dll
+C:\Users\Victor Delgado\source\repos\WpfApp2\WPF.DataAccess\bin\Debug\WPF.DataAccess.pdb
+C:\Users\Victor Delgado\source\repos\WpfApp2\WPF.DataAccess\bin\Debug\Dapper.Contrib.dll
+C:\Users\Victor Delgado\source\repos\WpfApp2\WPF.DataAccess\bin\Debug\Dapper.dll
+C:\Users\Victor Delgado\source\repos\WpfApp2\WPF.DataAccess\bin\Debug\WPF.Entities.dll
+C:\Users\Victor Delgado\source\repos\WpfApp2\WPF.DataAccess\bin\Debug\WPF.Entities.pdb
+C:\Users\Victor Delgado\source\repos\WpfApp2\WPF.DataAccess\bin\Debug\Dapper.xml
+C:\Users\Victor Delgado\source\repos\WpfApp2\WPF.DataAccess\bin\Debug\Dapper.Contrib.xml
+C:\Users\Victor Delgado\source\repos\WpfApp2\WPF.DataAccess\obj\Debug\WPF.DataAccess.csprojAssemblyReference.cache
+C:\Users\Victor Delgado\source\repos\WpfApp2\WPF.DataAccess\obj\Debug\WPF.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Victor Delgado\source\repos\WpfApp2\WPF.DataAccess\obj\Debug\WPF.DataAccess.csproj.CopyComplete
+C:\Users\Victor Delgado\source\repos\WpfApp2\WPF.DataAccess\obj\Debug\WPF.DataAccess.dll
+C:\Users\Victor Delgado\source\repos\WpfApp2\WPF.DataAccess\obj\Debug\WPF.DataAccess.pdb

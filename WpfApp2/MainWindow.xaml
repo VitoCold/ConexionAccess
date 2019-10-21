@@ -1,0 +1,35 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <StackPanel  Grid.Row="0" >
+            <Grid Margin="10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <TextBox Name="txtNombre" Grid.Column="0" Width="200"/>
+                <TextBox Name="txtApellido" Grid.Column="1" Width="200"/>
+            </Grid>
+            <Button Width="50" Height="20" Click="Button_Click">Go</Button>
+        </StackPanel>
+        <DataGrid Name="dgAlumnos" AutoGenerateColumns="False" Grid.Row="1" >
+            <DataGrid.Columns>
+
+                <DataGridTextColumn Header="Id" Binding="{Binding EstudianteId}"  />
+                <DataGridTextColumn Header="Nombre" Binding="{Binding Nombre}"  />
+                <DataGridTextColumn Header="Apellido" Binding="{Binding Apellido}" />
+
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
